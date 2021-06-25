@@ -5,7 +5,7 @@
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;
 </p>
 
 <p align="center">
@@ -20,7 +20,9 @@
   <img alt="Rocket.Q" src="/assets/Rocket_Q.png" width="100%">
 </p>
 
-Foi desenvolvido no Next Level Week da RocketSeat 06, trilha Discover.
+<p align="center">
+  Esse projeto foi desenvolvido na trilha Discover da [RocketSeat](https://rocketseat.com.br/)
+</p>
 
 ## 🚀 Tecnologias
 
