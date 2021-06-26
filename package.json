@@ -1,0 +1,24 @@
+{
+  "name": "Rocket.Q",
+  "version": "1.0.0",
+  "description": "Projeto desenvolvido na missão Discover da RocketSeat",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oliveirajosi/NLW-06-ProjetoRocket.Q.git"
+  },
+  "keywords": [],
+  "author": "Josiane Oliveira",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/oliveirajosi/NLW-06-ProjetoRocket.Q/issues"
+  },
+  "homepage": "https://github.com/oliveirajosi/NLW-06-ProjetoRocket.Q#readme",
+  "dependencies": {
+    "ejs": "^3.1.6",
+    "express": "^4.17.1"
+  }
+}
